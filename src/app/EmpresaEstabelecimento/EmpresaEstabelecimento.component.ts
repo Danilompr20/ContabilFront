@@ -13,7 +13,7 @@ export class EmpresaEstabelecimentoComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-
+// comenteario
   }
 
 }
